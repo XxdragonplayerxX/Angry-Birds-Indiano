@@ -62,3 +62,4 @@ function draw(){
     bird.display();
     platform.display();
 }
+// chá de indiano é pedra
