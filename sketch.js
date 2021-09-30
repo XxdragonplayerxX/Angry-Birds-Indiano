@@ -63,3 +63,4 @@ function draw(){
     platform.display();
 }
 // chá de indiano é pedra
+// professora d é a melhor professor do curso
